@@ -1,5 +1,5 @@
 import css from '../Statistics/statistics.module.css'
-import {getRandomColor} from '../Function/rendomColor'
+import {getRandomColor} from '../../Helpers/getRendomColor'
 export const Statistics = ({ title, stats }) => {  
     return (
       <section className={css.statistics}>
