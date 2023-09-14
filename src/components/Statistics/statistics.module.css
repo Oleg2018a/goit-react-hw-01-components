@@ -1,0 +1,38 @@
+.statistics{
+    padding-top:40px ;
+    max-width: 300px;
+margin: 0 auto;
+
+}
+.title{
+ text-align: center;
+ font-size: 25px;
+ padding: 20px 30px;
+}
+.statList{
+display: flex;
+justify-content: center;
+align-items: center;
+
+font-size: 20px;
+   
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.statListItem{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding: 10px;
+}
+.label{
+    font-size: 14px;
+    margin-bottom: 10px;
+
+}
+.percentage{
+    font-size: 18px;
+
+}
